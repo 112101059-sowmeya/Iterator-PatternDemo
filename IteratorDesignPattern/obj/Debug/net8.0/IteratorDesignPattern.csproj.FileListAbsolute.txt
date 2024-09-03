@@ -1,0 +1,14 @@
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.exe
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.deps.json
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.runtimeconfig.json
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.dll
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.pdb
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.AssemblyInfo.cs
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.dll
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\refint\IteratorDesignPattern.dll
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.pdb
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.genruntimeconfig.cache
+C:\Users\sowmeyalakshmi\source\repos\IteratorPatternDemo\IteratorDesignPattern\obj\Debug\net8.0\ref\IteratorDesignPattern.dll
