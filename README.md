@@ -18,3 +18,5 @@ Iterator Pattern Demo module has:
     * Provides method for CreateIterator() for the Collection object to be parsed.
 
 ## UML DIAGRAM
+![UML DIAGRAM_ITERATOR](https://github.com/user-attachments/assets/935de975-dea5-4c65-8c42-8bdc233d6963)
+
